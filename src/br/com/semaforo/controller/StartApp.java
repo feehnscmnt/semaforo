@@ -1,6 +1,6 @@
 package br.com.semaforo.controller;
 
-import br.com.semaforo.view.*;
+import br.com.semaforo.view.Semaforo;
 
 public class StartApp {
 
